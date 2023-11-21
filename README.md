@@ -4,8 +4,8 @@
 
 Arthur Araujo, desenvolvedor backend, amante de design gráfico e professor particular de exatas. Após pular em vários galhos, me prendi nas branchs do desenvolvimento e aqui estou. Além disso, gosto de jogos de RPG, puzzles e um bom rolê com os amigos.
 
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.ifpe.edu.br/campus/paulista/cursos/superiores/tecnologos/analiseedesenvolvimentodesistemas/capa">IFPE</a>.
-- 🎓 Estudante de Backend Node.js na <a href="https://github.com/cubos-academy">Cubos Academy</a>.
+- 📘 Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.ifpe.edu.br/campus/paulista/cursos/superiores/tecnologos/analiseedesenvolvimentodesistemas/capa">IFPE</a>.
+- 👨‍🎓 Desenvolvimento Backend Node.js - <a href="https://github.com/cubos-academy">Cubos Academy</a>.
 - 👨‍🏫 Experiência como professor particular de exatas e monitor durante período acadêmico.
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgsa&theme=dracula&custom_title=Linguagens%20%-%20%Github&title_color=ffffff&border_color=fffd78&bg_color=1c1c1c)
@@ -18,17 +18,17 @@ Arthur Araujo, desenvolvedor backend, amante de design gráfico e professor part
 
 Aqui estão alguns projetos interessantes em que tenho trabalhado:
 
-### [Módulo 1 Backend Node.js - Lógica de programação]
+### [Módulo 4 Backend Node.js - Aprofundamentos e complementos de Backend]
 
-Módulo 1 de 5 do curso de backend node.js da @cubosacademy. Demonstra conhecimento de lógica de programação e contém alguns exercícios resolvidos.
+Módulo 4 de 4 do curso de backend node.js da @cubosacademy. Demonstra conhecimento de deploy, envio de emails e upload de arquivos, além de todos os outros 3 módulos.
 
-:link: [backend-m01-logic](https://github.com/arthurgsa/backend-m01-logic)
+:link: [backend-m04-aprofundamentos](https://github.com/arthurgsa/backend-m04-aprofundamentos)
 
-### [Módulo 2 Backend Node.js - API REST]
+### [Desafio FINAL Backend Node.js - API online com todos os conhecimento do curso]
 
-Módulo 2 de 5 do curso de backend node.js da @cubosacademy. Demonstra conhecimento de API REST e contém alguns exercícios resolvidos.
+Módulo final do curso de backend node.js da @cubosacademy. Demonstra conhecimentos e domínio de backend com node.js.
 
-:link: [backend-m02-api](https://github.com/arthurgsa/backend-m02-api)
+:link: [EM BREVE](https://github.com/arthurgsa/)
 
 ## Contato
 
