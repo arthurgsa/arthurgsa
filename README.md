@@ -4,7 +4,7 @@
 
 Arthur Araujo, desenvolvedor backend, amante de design gráfico e professor particular de exatas. Após pular em vários galhos, me prendi nas branchs do desenvolvimento e aqui estou. Além disso, gosto de jogos de RPG, puzzles e um bom rolê com os amigos.
 
-- 📘 Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.ifpe.edu.br/campus/paulista/cursos/superiores/tecnologos/analiseedesenvolvimentodesistemas/capa">IFPE</a>.
+- 📘 Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://portal.ifpe.edu.br/paulista/cursos/superiores/tecnologos/analise-e-desenvolvimento-de-sistemas/">IFPE</a>.
 - 👨‍🎓 Desenvolvimento Backend Node.js - <a href="https://github.com/cubos-academy">Cubos Academy</a>.
 - 👨‍🏫 Experiência como professor particular de exatas e monitor durante período acadêmico.
 
